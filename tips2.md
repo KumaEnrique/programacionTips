@@ -14,6 +14,10 @@ npm install -g node-sass
 ```
 sass --watch estilos.scss estilos.css
 ```
+## importar otros archivos.scss a un archivo scss y solo compilar el ultimo archico
+```
+sass -w carpeta_scss -o carpeta_css
+```
 
 ## instalar style/stylus preprocesador css
 ```
