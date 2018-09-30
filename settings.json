@@ -1,0 +1,16 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 20,
+    "workbench.iconTheme": "vscode-icons",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
+    "emmet.triggerExpansionOnTab": true,
+    "terminal.integrated.fontSize": 20,
+    "open-in-browser.default": "Chrome",
+    "window.zoomLevel": 1,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.menuBarVisibility": "visible",
+    "window.titleBarStyle": "custom",
+    "workbench.startupEditor": "none",
+}
